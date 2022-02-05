@@ -65,9 +65,96 @@ Please accord these Deputies your greatest respect, since they are volunteering 
 Project Files
 -------------
 
-| Assignment | code files |
-| --- | --- |
-|  {{< br >}}{{< br >}} [Project 1: Bit Hacks (PDF)]({{< baseurl >}}/resources/mit6_172f18_project1) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Project 1 Materials (ZIP)]({{< baseurl >}}/resources/mit6_172f18-project1) {{< br >}}{{< br >}} This file contains: 2 .py files, 3 .h files, and 3 .c files. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [Project 2: Collision Detection (PDF)]({{< baseurl >}}/resources/mit6_172f18_project2) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Project 2 Materials (ZIP)]({{< baseurl >}}/resources/mit6_172f18-project2) {{< br >}}{{< br >}} This file contains: 1 .py file, 9 .h files, 7 .c files, and 7 .in files. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [Project 3: Serial Dynamic Memory Allocation (PDF)]({{< baseurl >}}/resources/mit6_172f18_project3) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Project 3 Materials (ZIP)]({{< baseurl >}}/resources/mit6_172f18-project3) {{< br >}}{{< br >}} This file contains: 3 .py files, 10 .h files, and 11 .c files.  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [Project 4: Leiserchess (PDF)]({{< baseurl >}}/resources/mit6_172f18_project4) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Leiserchess Rules (PDF)]({{< baseurl >}}/resources/mit6_172f18_leiserchess) {{< br >}}{{< br >}} [Project 4 Materials (ZIP - 2.3MB)]({{< baseurl >}}/resources/mit6_172f18-project4) {{< br >}}{{< br >}} This file contains: 4 .py files, 52 .h files, 14 .c files, 32 .cpp files, 8 .java files, 6 .js files, 6 .pptx files, 4 .dta files, 1 .pdf file, 1 .html file, 1 .css file, and 1 .key file. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Assignment
+{{< thclose >}}
+{{< thopen >}}
+code files
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[Project 1: Bit Hacks (PDF)]({{< baseurl >}}/resources/mit6_172f18_project1)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Project 1 Materials (ZIP)]({{< baseurl >}}/resources/mit6_172f18-project1)
+
+This file contains: 2 .py files, 3 .h files, and 3 .c files.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[Project 2: Collision Detection (PDF)]({{< baseurl >}}/resources/mit6_172f18_project2)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Project 2 Materials (ZIP)]({{< baseurl >}}/resources/mit6_172f18-project2)
+
+This file contains: 1 .py file, 9 .h files, 7 .c files, and 7 .in files.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[Project 3: Serial Dynamic Memory Allocation (PDF)]({{< baseurl >}}/resources/mit6_172f18_project3)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Project 3 Materials (ZIP)]({{< baseurl >}}/resources/mit6_172f18-project3)
+
+This file contains: 3 .py files, 10 .h files, and 11 .c files. 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[Project 4: Leiserchess (PDF)]({{< baseurl >}}/resources/mit6_172f18_project4)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Leiserchess Rules (PDF)]({{< baseurl >}}/resources/mit6_172f18_leiserchess)
+
+[Project 4 Materials (ZIP - 2.3MB)]({{< baseurl >}}/resources/mit6_172f18-project4)
+
+This file contains: 4 .py files, 52 .h files, 14 .c files, 32 .cpp files, 8 .java files, 6 .js files, 6 .pptx files, 4 .dta files, 1 .pdf file, 1 .html file, 1 .css file, and 1 .key file.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -4,20 +4,548 @@ title: Calendar
 uid: 0b1de0f3-486d-4c6a-4c57-57185525a3b8
 ---
 
-| Week | Lectures | Recitations | Key Dates |
-| --- | --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} L1: Intro and Matrix Multiplication {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} R1: Basic Tools {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} HW1: Basic Tools, C Primer assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} L2: Bentley's Rules {{< br >}}{{< br >}} L3: Bit Hacks {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} R2: Profiling {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} HW2: Profiling assigned {{< br >}}{{< br >}} Project 1 Beta assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} L4: Architecture and Vectorization {{< br >}}{{< br >}} L5: C to Assembly {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} No recitations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} HW3: Vectorization assigned {{< br >}}{{< br >}} Project 1 Beta Writeup due {{< br >}}{{< br >}} Project 1 Final assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} L6: Multicore Programming {{< br >}}{{< br >}} L7: Races and Parallelism {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} R3: Cilk and Reducers {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} HW4: Cilk, Reducer Hyperobjects assigned {{< br >}}{{< br >}} Project 1 MITPOSSE deadline {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} L8: Analysis of Multithreaded Algorithms {{< br >}}{{< br >}} L9: What Compilers Can and Cannot Do {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} R4: Analysis of Multithreaded Programs {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} HW5: Theory of Performance Engineering assigned {{< br >}}{{< br >}} Project 1 Final due {{< br >}}{{< br >}} Project 2 Beta assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} L10: Measurement and Timing {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} R5: Quiz #1 Review {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Project 2 Beta due {{< br >}}{{< br >}} Project 2 Final assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} L11: Storage Allocation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} R6: Simple, Straightforward Memory Allocation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Quiz #1 {{< br >}}{{< br >}} HW6: Simple Storage Allocation assigned {{< br >}}{{< br >}} Project 2 MITPOSSE deadline {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} L12: Parallel Storage Allocation {{< br >}}{{< br >}} L13: The Cilk Runtime System {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} R7: Compiler-Inserted Instrumentation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} HW7: Dynamic Analysis Tools assigned {{< br >}}{{< br >}} Project 2 Final due {{< br >}}{{< br >}} Project 3 Beta assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} L14: Caching and Cache-Efficient Algorithms {{< br >}}{{< br >}} L15: Cache-Oblivious Algorithms {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} R8: Chaching and Cachegrind {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} HW8: Caching and Cachegrind assigned {{< br >}}{{< br >}} Project 3 Beta due {{< br >}}{{< br >}} Project 3 Final assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} L16: Nondeterministic Programming {{< br >}}{{< br >}} L17: Synchronization without Locks {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} R9: Deterministic Execution {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} HW9: Deterministic Execution assigned {{< br >}}{{< br >}} Project 3 MITPOSSE deadline {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} L18: DSLs and Autotuning {{< br >}}{{< br >}} L19: Leiserchess Code Walk {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} R10: Quiz #2 Review {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Project 3 Final due {{< br >}}{{< br >}} Project 4 Beta 1 assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} No lectures {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} No recitations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Quiz #2 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} L20: Speculative Parallelism/Project Parallelization Strategies {{< br >}}{{< br >}} L21: Guest Lecture {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} R10: Synchronization Primitives and Examples {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} HW10: Data Synchronization assigned {{< br >}}{{< br >}} Project 4 Beta 1 due {{< br >}}{{< br >}} Project 4 Beta 2 assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} L22: Graph Optimization {{< br >}}{{< br >}} L23: Guest Lecture {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} No recitations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Project 4 Beta 2 due {{< br >}}{{< br >}} Project 4 Final assigned {{< br >}}{{< br >}} Project 4 MITPOSSE deadline {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 15 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} No lectures {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} No recitations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Student Presentations due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week
+{{< thclose >}}
+{{< thopen >}}
+Lectures
+{{< thclose >}}
+{{< thopen >}}
+Recitations
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L1: Intro and Matrix Multiplication
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R1: Basic Tools
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+HW1: Basic Tools, C Primer assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L2: Bentley's Rules
+
+L3: Bit Hacks
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R2: Profiling
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+HW2: Profiling assigned
+
+Project 1 Beta assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L4: Architecture and Vectorization
+
+L5: C to Assembly
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+No recitations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+HW3: Vectorization assigned
+
+Project 1 Beta Writeup due
+
+Project 1 Final assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L6: Multicore Programming
+
+L7: Races and Parallelism
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R3: Cilk and Reducers
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+HW4: Cilk, Reducer Hyperobjects assigned
+
+Project 1 MITPOSSE deadline
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L8: Analysis of Multithreaded Algorithms
+
+L9: What Compilers Can and Cannot Do
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R4: Analysis of Multithreaded Programs
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+HW5: Theory of Performance Engineering assigned
+
+Project 1 Final due
+
+Project 2 Beta assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L10: Measurement and Timing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R5: Quiz #1 Review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project 2 Beta due
+
+Project 2 Final assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L11: Storage Allocation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R6: Simple, Straightforward Memory Allocation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quiz #1
+
+HW6: Simple Storage Allocation assigned
+
+Project 2 MITPOSSE deadline
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L12: Parallel Storage Allocation
+
+L13: The Cilk Runtime System
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R7: Compiler-Inserted Instrumentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+HW7: Dynamic Analysis Tools assigned
+
+Project 2 Final due
+
+Project 3 Beta assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L14: Caching and Cache-Efficient Algorithms
+
+L15: Cache-Oblivious Algorithms
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R8: Chaching and Cachegrind
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+HW8: Caching and Cachegrind assigned
+
+Project 3 Beta due
+
+Project 3 Final assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L16: Nondeterministic Programming
+
+L17: Synchronization without Locks
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R9: Deterministic Execution
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+HW9: Deterministic Execution assigned
+
+Project 3 MITPOSSE deadline
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L18: DSLs and Autotuning
+
+L19: Leiserchess Code Walk
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R10: Quiz #2 Review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project 3 Final due
+
+Project 4 Beta 1 assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+No lectures
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+No recitations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quiz #2
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L20: Speculative Parallelism/Project Parallelization Strategies
+
+L21: Guest Lecture
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+R10: Synchronization Primitives and Examples
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+HW10: Data Synchronization assigned
+
+Project 4 Beta 1 due
+
+Project 4 Beta 2 assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L22: Graph Optimization
+
+L23: Guest Lecture
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+No recitations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project 4 Beta 2 due
+
+Project 4 Final assigned
+
+Project 4 MITPOSSE deadline
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+15
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+No lectures
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+No recitations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student Presentations due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+
+{{< tableclose >}}

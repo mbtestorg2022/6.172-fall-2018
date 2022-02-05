@@ -32,12 +32,81 @@ Grading
 
 Each assignment will describe how you will be graded. The scores you receive on each assignment will be combined to produce your final grade after being weighted approximately.
 
-| Assignments | Percentages |
-| --- | --- |
-| Weekly Homeworks | 10% |
-| Quizzes | 30% |
-| Project 1 | 10% |
-| Project 2 | 12% |
-| Project 3 | 12% |
-| Project 4 | 24% |
-| Class Participation | 2%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Assignments
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly Homeworks
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project 1
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project 2
+{{< tdclose >}}
+{{< tdopen >}}
+12%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project 3
+{{< tdclose >}}
+{{< tdopen >}}
+12%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project 4
+{{< tdclose >}}
+{{< tdopen >}}
+24%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+2%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
