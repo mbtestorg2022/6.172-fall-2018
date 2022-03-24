@@ -6,7 +6,7 @@ uid: a2985482-0758-c1ef-a6ea-42f1d63e5cb7
 
 \[Note: Assignments make use of AWS/Git features which may not be available to OCW users.\]
 
-Homework 5 refers to ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 27 (PDF)](http://mitp-content-server.mit.edu:18180/books/content/sectbyfn?collid=books_pres_0&id=8030&fn=0262533057chap27.pdf) of _Introduction to Algorithms_ by Cormen, Leiserson, Rivest, and Stein (CLRS).
+Homework 5 refers to [Chapter 27 (PDF)](http://mitp-content-server.mit.edu:18180/books/content/sectbyfn?collid=books_pres_0&id=8030&fn=0262533057chap27.pdf) of _Introduction to Algorithms_ by Cormen, Leiserson, Rivest, and Stein (CLRS).
 
 *   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262033848) Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. _[Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms-third-edition)_. MIT Press, 2009. ISBN: 9780262033848
 
