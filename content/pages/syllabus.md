@@ -12,7 +12,7 @@ Lectures: 2 sessions / week; 1.5 hours / session
 Prerequisites
 -------------
 
-The prerequisites for this class are [6.004 Computation Structures](/courses/6-004-computation-structures-spring-2017/), [6.006 Introduction to Algorithms](/courses/6-006-introduction-to-algorithms-fall-2011/), and 6.031 Software Construction (formerly [6.005 Software Construction](/courses/6-005-software-construction-spring-2016/)). The course programming language is C.
+The prerequisites for this class are [6.004 Computation Structures](/courses/6-004-computation-structures-spring-2017), [6.006 Introduction to Algorithms](/courses/6-006-introduction-to-algorithms-fall-2011), and 6.031 Software Construction (formerly [6.005 Software Construction](/courses/6-005-software-construction-spring-2016)). The course programming language is C.
 
 Course Description
 ------------------
